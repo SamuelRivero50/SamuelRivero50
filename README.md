@@ -4,8 +4,6 @@
 
 🚀 Currently working on multiple projects while growing my skills in modern web technologies. Always curious, always building.
 
-🔗 [Check out my portfolio](https://your-portfolio-link.com)
-
 ---
 
 ### 🔧 About Me
