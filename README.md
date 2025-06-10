@@ -1,5 +1,36 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Samuel+Rivero;I'm+a+Freelancer+Full+Stack+Developer)](https://git.io/typing-svg)
 
+🌎 Based in Colombia, I'm passionate about building Full-Stack web apps that solve real-world problems through clean, functional design.
+
+🚀 Currently working on multiple projects while growing my skills in modern web technologies. Always curious, always building.
+
+🔗 [Check out my portfolio](https://your-portfolio-link.com)
+
+---
+
+### 🔧 About Me
+
+- 🎓 Systems Engineering student with real-world academic and independent project experience  
+- 🧠 Self-motivated and eager to keep learning  
+- 🖥️ Focused on both frontend & backend development  
+
+---
+
+### 🤝 I'm looking to collaborate on:
+- Small freelance projects
+- Open source beginner-friendly repositories
+- Real-world problem-solving apps
+
+### 🌱 I'm currently learning:
+- TypeScript
+- FastAPI
+- Deployment & DevOps basics (Docker, Vercel, etc.)
+
+### 💬 Ask me about:
+- Learning full stack as a student
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-enrique-rivero-urribarr%C3%AD-a7927b363/) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01983e6f2a74e59ac4?mp_source=share) 
 
