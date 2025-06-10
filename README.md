@@ -6,6 +6,8 @@
 
 🔗 [Check out my portfolio](https://your-portfolio-link.com)
 
+---
+
 ### 🔧 About Me
 
 - 🎓 Systems Engineering student with real-world academic and independent project experience  
