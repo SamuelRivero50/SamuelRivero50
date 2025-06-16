@@ -4,6 +4,8 @@
 
 🚀 Currently working on multiple projects while growing my skills in modern web technologies. Always curious, always building.
 
+💼 My personal portfolio: **[View Portfolio](https://samuel-rivero-portfolio.netlify.app)** <!-- Replace with your actual Netlify URL -->
+
 ---
 
 ### 🔧 About Me
