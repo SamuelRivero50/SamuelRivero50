@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neued&color=da412c&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Samuel+Rivero;I'm+a+Freelancer+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&color=da412c&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Samuel+Rivero;I'm+a+Freelancer+Full+Stack+Developer)](https://git.io/typing-svg)
 
 🌎 Based in Colombia, I'm passionate about building Full-Stack web apps that solve real-world problems through clean, functional design.
 
